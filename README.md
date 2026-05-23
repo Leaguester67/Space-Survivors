@@ -1,4 +1,4 @@
-# Space-Survivors
+# Space-Survivors click realeases on the right center to download
 This is a game about avoiding asteriods - simple ;)
 
 There are 4 difficulties easy normal hard and ULTRA
